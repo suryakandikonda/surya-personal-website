@@ -1,0 +1,67 @@
+body {
+  margin: 0; 
+  padding: 0;
+  font-family: "Ubuntu",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.seperator {
+  border-bottom: 1px solid #eee;
+  margin: 1rem 0;
+}
+
+.background-home {
+ 
+}
+
+.home-title {
+  color:#333333;
+  text-align: center;
+  
+  margin-top: 200px;
+}
+
+.home-title:hover {
+  color:blue;
+}
+
+.home-subtitle {
+  color:#333333;
+  text-align: center;
+
+}
+
+.home-subtitle:hover {
+  color:blue;
+}
+
+.home-contact {
+  text-align: center;
+}
+
+.anisep {
+  border-bottom: 2px solid black;
+  width: 50%;
+  animation-name: sep;
+  animation-duration: 2s;
+}
+
+@keyframes sep {
+  from {width: 0px;}
+  to {width:50%; color:green;}
+}
+
+.edu-duration {
+  float:right;
+}
+
+.active {
+  color:red;
+}
+
