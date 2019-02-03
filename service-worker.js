@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/surya-personal-website/precache-manifest.df500937e34a93f8ec17e067ed960412.js"
+  "/surya-personal-website/precache-manifest.89ea6c39e18d3eb5716a002740165014.js"
 );
 
 workbox.clientsClaim();
