@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/surya-personal-website/static/js/runtime~main.e72cc65c.js"
   },
   {
-    "revision": "4ddc41a481d6a8ba826b",
-    "url": "/surya-personal-website/static/js/main.4ddc41a4.chunk.js"
+    "revision": "ef2aa872a4f14c891800",
+    "url": "/surya-personal-website/static/js/main.ef2aa872.chunk.js"
   },
   {
     "revision": "b1bc71e0638c7c98e2de",
     "url": "/surya-personal-website/static/js/1.b1bc71e0.chunk.js"
   },
   {
-    "revision": "4ddc41a481d6a8ba826b",
+    "revision": "ef2aa872a4f14c891800",
     "url": "/surya-personal-website/static/css/main.ff706561.chunk.css"
   },
   {
-    "revision": "fe946c900103ec42021f671c53fc1c7d",
+    "revision": "ec424f88a0eec1cf70a368e11bd3f1cb",
     "url": "/surya-personal-website/index.html"
   }
 ];
