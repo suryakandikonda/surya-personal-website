@@ -1,7 +1,7 @@
 {
   "main.css": "/surya-personal-website/static/css/main.ff706561.chunk.css",
-  "main.js": "/surya-personal-website/static/js/main.7638d786.chunk.js",
-  "main.js.map": "/surya-personal-website/static/js/main.7638d786.chunk.js.map",
+  "main.js": "/surya-personal-website/static/js/main.7211a399.chunk.js",
+  "main.js.map": "/surya-personal-website/static/js/main.7211a399.chunk.js.map",
   "static/js/1.b1bc71e0.chunk.js": "/surya-personal-website/static/js/1.b1bc71e0.chunk.js",
   "static/js/1.b1bc71e0.chunk.js.map": "/surya-personal-website/static/js/1.b1bc71e0.chunk.js.map",
   "runtime~main.js": "/surya-personal-website/static/js/runtime~main.e72cc65c.js",
@@ -11,6 +11,6 @@
   "static/media/insta.png": "/surya-personal-website/static/media/insta.addb526d.png",
   "static/media/linkedin.png": "/surya-personal-website/static/media/linkedin.e5118722.png",
   "index.html": "/surya-personal-website/index.html",
-  "precache-manifest.dc66edf2d4295109c267f9b0996328f6.js": "/surya-personal-website/precache-manifest.dc66edf2d4295109c267f9b0996328f6.js",
+  "precache-manifest.c38e328e411f8359c6f15c52e95268bd.js": "/surya-personal-website/precache-manifest.c38e328e411f8359c6f15c52e95268bd.js",
   "service-worker.js": "/surya-personal-website/service-worker.js"
 }
